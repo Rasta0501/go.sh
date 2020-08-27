@@ -3,7 +3,7 @@
 #======================================================
 #   System Required: CentOS 7+ / Debian 8+ / Ubuntu 16+
 #   Description: Manage v2-ui
-#   Author: sprov
+#   Author:  sprov
 #   Blog: https://blog.sprov.xyz
 #   Github - v2-ui: https://github.com/sprov065/v2-ui
 #======================================================
